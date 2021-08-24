@@ -1,3 +1,3 @@
 # NUXT-EXEMPLE
 
-https://app.netlify.com/sites/nuxt-exemple/overview
+https://nuxt-exemple.netlify.app/
